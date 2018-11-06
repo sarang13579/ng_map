@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Credits and Tools used:
+
+##TOOLS
+#1. FOURSQUARE API
+#2. GOOGLE MAPS API
+#3. REACT starter code 
+
+##Credits
+#1. D Brown Neighborhood map youtube walkthrough 
+#2. Udacity | Neighborhood Map Youtube walkthrough by Yahya Elharony
+#3. Udacity | Neighborhood Map Youtube walkthrough by Forrest Walker
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:

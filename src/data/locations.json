@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Domino's Pizza",
+    "street": "2,3,4, Akansha Building ",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400601",
+    "url": "https://www.dominos.co.in/",
+    "pos": {"lat":19.1922478,"lng":72.9671513}
+  },
+  {
+    "name": "Bombay Barbeque",
+    "street": "Shop 3-5, Dev Corpora (Pokhran Road 1, Cadbury Junction)",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400601",
+    "url": "http://www.bombaybarbeque.com/",
+    "pos": {"lat":19.2034422,"lng":72.96897009999999}
+  },
+  {
+    "name": "Mad Over Donuts",
+    "street": "9- Ground Floor, Gagangiri Society, Ravi Compound (Panchpakhadi)",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400602",
+    "url": "http://madoverdonuts.com/",
+    "pos": {"lat":19.2028636,"lng":72.96511}
+  },
+  {
+    "name": "St. Anthony's Bakery",
+    "street": "Kolbad Rd. (Kolbad)",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400601",
+    "url": "",
+    "pos": {"lat":19.2037856,"lng":72.97412439999999}
+  },
+  {
+    "name": "Mamledar Misal Pav",
+    "street": "Station Rd.",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400602",
+    "url": "",
+    "pos": {"lat":19.1890402,"lng":72.9674447}
+  },
+  {
+    "name": "China Bistro",
+    "street": "Infinity Shopping Complex, Ground Floor, Asher Residency, Pokharan Road Number 2, Gandhi Nagar",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400606",
+    "url": "http://chinabistro.in/home.php",
+    "pos": {"lat":19.2194683,"lng":72.97052090000001}
+  },
+  {
+    "name": "Café Verve",
+    "street": "Lake View Compound (Dr. Moose Rd.)",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400602",
+    "url": "",
+    "pos": {"lat":19.1922844,"lng":72.97352149999999}
+  },
+  {
+    "name": "Food Court",
+    "street": "Korum Mall",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400606",
+    "url": "",
+    "pos": {"lat":19.2025083,"lng":72.96558829999999}
+  },
+  {
+    "name": "The Appetite Momos",
+    "street": "Opp. Thane Railway Stn., Dada Patil Wadi (Naupada)",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "zip": "400602",
+    "url": "",
+    "pos": {"lat":19.186995,"lng":72.974407}
+  }
+]
